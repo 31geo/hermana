@@ -22,10 +22,10 @@ body {
 
 
 .imagen-centrada {
-  width:  50%;      /* aumentamos el ancho */
+  width:  52%;      /* aumentamos el ancho */
   height: auto;
   border-radius: 150px;
-  border: 3px solid white; 
+  border: 4px solid white; 
   position: relative;
   z-index: 2;
   transform: translate(0%, -100%);  /* ajustamos para bajar la imagen */
@@ -54,7 +54,7 @@ body {
   }
   100% {
     box-shadow: 0 0 20px rgba(230, 255, 10, 0.5),
-                0 0 40px rgba(255, 255, 255, 0.3);
+                0 0 40px rgba(255, 239, 21, 0.3);
     transform: translate(0%, -180%) scale(1.02);
   }
 }
