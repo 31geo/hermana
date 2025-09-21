@@ -46,7 +46,7 @@ body {
 
 /* === DESCRIPCIÓN === */
 .description {
-  font-size: clamp(2rem, 4vw, 2rem); /* Ajuste responsivo */
+  font-size: clamp(3.2rem, 4vw, 2rem); /* Ajuste responsivo */
   color: #fbff00;
   margin: 10px 0;
 }
@@ -62,7 +62,7 @@ body {
   background-color: yellow;
   border: none;
   padding: 10px 25px;
-  font-size: 20px;
+  font-size: 30px;
   cursor: pointer;
   position: relative;
   border-radius: 20px;
